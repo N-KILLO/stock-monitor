@@ -1,0 +1,5 @@
+{
+  "version": "1.2",
+  "download_url": "https://github.com/N-KILLO/stock-monitor/releases/download/v1.2/stock-monitor-v1.2.zip",
+  "notes": "- 구매 내역 창 추가 (상품/수량/금액/시각 자동 기록)\n- 자동 업데이트 기능 추가\n- 재고 확인 속도 대폭 개선 (백그라운드 탭 방식)"
+}
